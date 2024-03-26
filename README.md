@@ -25,7 +25,3 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=black"/>
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuheesong&show_icons=true&theme=radical)
